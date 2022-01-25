@@ -1,40 +1,26 @@
-# slides-gospel
+# missa-facil
 
-Escolha as músicas e gere os slides para a missa.
+Esse site monta os slides para uma celebração de missa católica e salva
+no seu Google Drive de acordo com a seleção de músicas.
 
-## Get started
+[www.missafacil.com.br](https://www.missafacil.com.br)
 
-To start the service exec:
+![Screenshot](https://user-images.githubusercontent.com/8009492/150894492-a007a2fa-0f1e-44b3-9f7c-2d3b3ee6e6d1.png)
 
-```
-make up
-```
+![image](https://user-images.githubusercontent.com/8009492/150895189-7c2e4059-02e7-475e-b891-e051da0ec12e.png)
 
-To create an apresentation exec:
+## Rodar local
+
+Para rodar em localhost, execute o seguinte comando:
 
 ```bash
-curl -X POST localhost:3000/apresentation \
-  -d '{
-      "title": "Missa de domingo",
-      "prayer": "1",
-      "songs": [
-        "tu-es-o-centro-frei-gilson"
-      ]
-    }'
-```
-
-```
-curl localhost:3000/songs/tu-es-o-centro-frei-gilson
+make up
 ```
 
 ## Deploy
 
-To deploy the service to heroku, exec:
+O deploy está sendo feito no Heroku, execute:
 
 ```bash
 make deploy
 ```
-
-## Eucharistic Prayers
-
-https://www.catolicoorante.com.br/oeucaristicas.html
