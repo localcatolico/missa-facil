@@ -1,0 +1,246 @@
+<!doctype html>
+<html lang="pt-BR">
+  <head>
+    <meta charset="utf-8">
+    <meta name="author" content="Rafael Mateus">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta property="og:title" content="Missa Fácil - Crie seus slides para a missa com poucos cliques"/>
+    <meta property="og:url" content="https://www.missafacil.com.br"/>
+    <meta property="og:description" content="Esse site monta os slides para uma celebração de missa católica e salva no seu Google Drive de acordo com a seleção de músicas.">
+    <meta property="og:image" content="https://www.missafacil.com.br/assets/img/logo.png"/>
+    <meta property="og:type" content="website"/>
+    <meta property="og:locale" content="pt_BR"/>
+    <meta name="description" content="Esse site monta os slides para uma celebração de missa católica e salva no seu Google Drive de acordo com a seleção de músicas.">
+    <title>Missa Fácil | {{ .title }}</title>
+    <link rel="apple-touch-icon" sizes="180x180" href="/assets/img/favicon/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/assets/img/favicon/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/assets/img/favicon/favicon-16x16.png">
+    <link rel="manifest" href="/assets/img/favicon/site.webmanifest">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-F3w7mX95PdgyTmZZMECAngseQB83DfGTowi0iMjiWaeVhAn4FJkqJByhZMI3AhiU" crossorigin="anonymous">
+    <style>
+      .pulse {
+        overflow: visible;
+        position: relative;
+      }
+      .pulse:before {
+        content: '';
+        display: block;
+        position: absolute;
+        width: 100%;
+        height: 100%;
+        top: 0;
+        left: 0;
+        background-color: inherit;
+        border-radius: inherit;
+        transition: opacity .3s, transform .3s;
+        animation: pulse-animation 1s cubic-bezier(0.24, 0, 0.38, 1) infinite;
+        z-index: 9999;
+      }
+      @keyframes pulse-animation {
+        0% {
+          opacity: 1;
+          transform: scale(1);
+        }
+        50% {
+          opacity: 0;
+          transform: scale(1.5);
+        }
+        100% {
+          opacity: 0;
+          transform: scale(1.5);
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <div class="container col-xl-10 col-xxl-8 px-4 py-5">
+        <div class="row align-items-center g-lg-5 py-5">
+          <div class="col-lg-7 text-center text-lg-start">
+            <h1 class="display-4 lh-1 mb-3">Missa <b>Fácil</b> ⛪</h1>
+            <p class="col-lg-10 fs-4">
+              Esse site monta os slides para uma celebração de missa católica e salva no seu
+              <a href="https://drive.google.com" target="_blank">Google Drive</a> de acordo com a seleção de músicas<br>
+            </p>
+            <small class="text-muted"><b><a href="/help">Clique aqui</a> se precisar de ajuda!</b></small>
+            <br><br>
+          </div>
+          <div class="col-md-10 mx-auto col-lg-5">
+            <form class="p-4 p-md-5 border rounded-3 bg-light form">
+              <h2 class="fw-bold text-center">Apresentação</h2>
+              <br>
+              <div id="step-1">
+                {{ if .email }}
+                  <small class="text-muted">{{ .email }} - <a href="/logout">sair</a></small><br><br>
+                  <div class="form-floating mb-3">
+                    <input id="title" name="title" class="form-control">
+                    <label for="title">Título da apresentação</label>
+                  </div>
+                  <div class="form-floating mb-3">
+                    <select id="prayer" name="prayer" class="form-select">
+                      {{ range $prayer := .prayers }}
+                        <option value="{{ $prayer.ID }}">{{ $prayer.Prayer }}</option>
+                      {{ end }}
+                    </select>
+                    <label for="floatingInput">Oração Eucarística</label>
+                  </div>
+                  <br>
+                  <a class="w-100 btn btn-lg btn-primary" onclick="$('#step-1').hide(); $('#step-2').show();">Escolher as músicas 🙏</a>
+                  <hr class="my-4">
+                  <small class="text-muted">Na próxima etapa, você irá escolher as músicas.</small>
+                {{ else }}
+                  <small class="text-muted">Primeiro, faça login com o Google</small><br>
+                  <a class="w-100 btn btn-lg btn-danger pulse" href="{{ .loginURL}}">
+                    <i class="fab fa-google"></i>
+                    Continuar com Google
+                  </a>
+                  <br><br>
+                  <div class="form-floating mb-3">
+                    <input id="title" name="title" class="form-control" disabled>
+                    <label for="title">Título da apresentação</label>
+                  </div>
+                  <div class="form-floating mb-3">
+                    <select id="prayer" name="prayer" class="form-select" disabled></select>
+                    <label for="floatingInput">Oração Eucarística</label>
+                  </div>
+                  <br>
+                  <a class="w-100 btn btn-lg btn-primary disabled">Escolher as músicas 🙏</a>
+                  <hr class="my-4">
+                  <small class="text-muted">Na próxima etapa, você irá escolher as músicas</small>
+                {{ end }}
+              </div>
+              <div id="step-2" style="display: none">
+                <small class="text-muted">Selecione as músicas:</small><br>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Entrada</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Perdão</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Glória</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Aclamação</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Ofertório</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Santo</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Cordeiro</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Comunhão</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Ação de Graças</label>
+                </div>
+                <div class="form-floating mb-3">
+                  <select id="songs" name="songs" class="form-select">
+                    {{ range $song := .songs }}
+                      <option value="{{ $song.ID }}">{{ $song.Name }} - {{ $song.Artist }}</option>
+                    {{ end }}
+                  </select>
+                  <label for="floatingInput">Música de Final</label>
+                </div>
+                <br>
+                <button id="submit-button" class="w-100 btn btn-lg btn-primary" type="submit">Criar apresentação 🙏</button>
+                <br>
+                <a href="#" onclick="$('#step-1').show(); $('#step-2').hide();">voltar</a>
+                <hr class="my-4">
+                <small class="text-muted">
+                  Quando finalizar, a apresentação será armazenada no seu
+                  <a href="https://drive.google.com" target="_blank">Google Drive</a>
+                  podendo acessar sempre que precisar.
+                </small>
+              </div>
+            </form>
+          </div>
+        </div>
+      </div>
+    </main>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.1/dist/js/bootstrap.bundle.min.js" integrity="sha384-/bQdsTh/da6pkI1MST/rWKFNjaCP5gBSY4sEBT38Q/9RBh9AH40zEOg7Hlq2THRZ" crossorigin="anonymous"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.slim.min.js" integrity="sha256-u7e5khyithlIdTpu22PHhENmPcRdFiHRjhAuHcs05RI=" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/ae2c881fce.js" crossorigin="anonymous"></script>
+    <script>
+      function handleFormSubmit(event) {
+        $("#submit-button").html("Criando apresentação...");
+        $("#submit-button").prop("disabled", true);
+        event.preventDefault();
+        const data = new FormData(event.target);
+        const formJSON = Object.fromEntries(data.entries());
+        formJSON.songs = data.getAll('songs');
+        sendRequest(formJSON)
+      }
+
+      function sendRequest(formJSON) {
+        fetch("api/presentation", {
+          method: "POST", 
+          body: JSON.stringify(formJSON)
+        }).then(res => {
+          console.log("Request complete! response:", res);
+          location.href = '/done';
+        });
+      }
+
+      const form = document.querySelector('.form');
+      form.addEventListener('submit', handleFormSubmit);
+    </script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-CVF99CSNCS"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+      gtag('config', 'G-CVF99CSNCS');
+    </script>
+  </body>
+</html>

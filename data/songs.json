@@ -1,0 +1,552 @@
+{
+  "songs": [
+    {
+      "id": "_blank",
+      "name": "",
+      "artist": "",
+      "slides":[
+        {
+          "content": ""
+        }
+      ]
+    },
+    {
+      "id": "cantai-ao-senhor-francisco-clara",
+      "name": "Cantai ao Senhor",
+      "artist": "Francisco e Clara",
+      "slides":[
+        {
+          "content": "Cantai ao Senhor um cântico novo (3x)\nCantai ao Senhor, cantai ao Senhor"
+        },
+        {
+          "content": "Porque Ele fez Ele faz maravilhas (3x)\nCantai ao Senhor, cantai ao Senhor!"
+        },
+        {
+          "content": "Jesus é o Senhor Amém, aleluia (3x)\nCantai ao Senhor, cantai ao Senhor!"
+        }
+      ]
+    },
+    {
+      "id": "cordeiro-shalom",
+      "name": "Cordeiro",
+      "artist": "Shalom",
+      "slides":[
+        {
+          "content": "Cordeiro de Deus que tirais o pecado do mundo\nTende Piedade!"
+        },
+        {
+          "content": "Cordeiro de Deus que tirais o pecado do mundo\nTende Piedade!"
+        },
+        {
+          "content": "Cordeiro de Deus que tirais o pecado do mundo\nDai-nos a Paz! Dai-nos a Paz!"
+        }
+        ,
+        {
+          "content": "Dai-nos a vossa Paz! Dai-nos a Paz!\nDai-nos a Paz!"
+        }
+      ]
+    },
+    {
+      "id": "jesus-cristo-me-deixou-inquieto",
+      "name": "Jesus Cristo Me Deixou Inquieto",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Jesus cristo me deixou inquieto\nnas palavras que Ele proferiu\nNunca mais eu pude olhar o mundo sem sentir aquilo que Jesus sentiu"
+        },
+        {
+          "content": "Eu vivia tão tranquilo e descansado e pensava ter\nChegado ao que busquei muitas vezes proclamei\nExtasiado que, ao seguir a lei de cristo, eu me\nSalvei mas depois que meu senhor passou, nunca mais meu coração se acomodou"
+        },
+        {
+          "content": "Jesus cristo me deixou inquieto\nnas palavras que Ele proferiu\nNunca mais eu pude olhar o mundo sem sentir aquilo que Jesus sentiu"
+        },
+        {
+          "content": "Minha vida que eu pensei realizada, esbanjei como\nSemente em qualquer chão pouco a pouco, ao caminhar\nNa longa estrada percebi que havia tido uma ilusão\nMas depois que meu Senhor passou\nIlusão e comodismo se acabou"
+        },
+        {
+          "content": "Jesus cristo me deixou inquieto\nnas palavras que Ele proferiu\nNunca mais eu pude olhar o mundo sem sentir aquilo que Jesus sentiu"
+        }
+      ]
+    },
+    {
+      "id": "este-e-meu-filho-muito-amado",
+      "name": "Este é meu filho muito amado",
+      "artist": "Campanha da Fraternidade",
+      "slides":[
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        },
+        {
+          "content": "A beleza da glória celeste\nQue a Igreja esperando procura\nCristo a mostra no alto do monte\nOnde mais que o sol claro fulgura"
+        },
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        },
+        {
+          "content": "Este fato é nos tempos notável\nAnte Pedro, Tiago e João\nCristo fala a Moisés e a Elias\nSobre a sua futura Paixão"
+        },
+        {
+          "content": "Testemunhas da lei, dos profetas\nE da graça estando presentes\nSobre o Filho, Deus Pai testemunha\nVindo a voz duma nuvem luzente"
+        },
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        },
+        {
+          "content": "Com a face brilhante de glória\nCristo hoje mostrou no Tabor\nO que Deus tem no céu preparado\nAos que o seguem, vivendo no amor"
+        },
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        },
+        {
+          "content": "Da sagrada visão o mistério\nErgue aos céus o fiel coração\nE, por isso, exultante de gozo\nSobe a Deus nossa ardente oração"
+        },
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        },
+        {
+          "content": "Pai e Filho, e Espírito Amor\nUm só Deus, vida e paz, Sumo Bem\nConcedei-nos por vossa presença\nEsta glória no Reino. Amém!"
+        },
+        {
+          "content": "Este é meu Filho muito amado\nEscutai-o todos vós!\nEntão o vosso coração se alegrará\nE em vossos olhos\nBrilhará a sua luz!"
+        }
+      ]
+    },
+    {
+      "id": "aleluia-tradicional",
+      "name": "Aleluia, aleluia, aleluia",
+      "artist": "Tradicional",
+      "slides":[
+        {
+          "content": "Aleluia, aleluia, aleluia\nAleluia!"
+        }
+      ]
+    },
+    {
+      "id": "a-nos-descei-divina-luz",
+      "name": "A nós descei Divina Luz",
+      "artist": "Eugenio Jorge",
+      "slides":[
+        {
+          "content": "A nós descei, Divina Luz\nA nós descei, Divina Luz\nEm nossas almas acendei\nO amor, o amor de Jesus\nEm nossas almas acendei\nO amor, o amor de Jesus"
+        },
+        {
+          "content": "Vós sois a alma da Igreja\nVós sois a vida, sois o amor\nVós sois a graça benfazeja\nQue nos irmana no Senhor\nVós sois a graça benfazeja\nQue nos irmana no Senhor"
+        },
+        {
+          "content": "Divino Espírito descei\nOs corações vinde inflamar\nE as nossas almas preparar\nPara o que Deus nos quer falar\nE as nossas almas preparar\nPara o que Deus nos quer falar"
+        },
+        {
+          "content": "A nós descei, Divina Luz\nA nós descei, Divina Luz\nEm nossas almas acendei\nO amor, o amor de Jesus\nEm nossas almas acendei\nO amor, o amor de Jesus"
+        }
+      ]
+    },
+    {
+      "id": "gloria-gloria-anjos-do-ceu",
+      "name": "Glória, Glória Anjos do Céu",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Glória, glória, anjos do céu\nCantam todos Seu amor\nE na terra, homens de paz\nDeus merece o louvor"
+        },
+        {
+          "content": "Deus e Pai, nós Vos louvamos\nAdoramos, bendizemos\nDamos glória ao Vosso nome\nVossos dons agradecemos"
+        },
+        {
+          "content": "Glória, glória, anjos do céu\nCantam todos Seu amor\nE na terra, homens de paz\nDeus merece o louvor"
+        },
+        {
+          "content": "Senhor nosso, Jesus Cristo\nUnigênito do Pai\nVós de Deus Cordeiro Santo\nNossas culpas perdoai"
+        },
+        {
+          "content": "Glória, glória, anjos do céu\nCantam todos Seu amor\nE na terra, homens de paz\nDeus merece o louvor"
+        },
+        {
+          "content": "Vós que estais junto do Pai\nComo nosso intercessor\nAcolhei nossos pedidos\nAtendei nosso clamor"
+        },
+        {
+          "content": "Glória, glória, anjos do céu\nCantam todos Seu amor\nE na terra, homens de paz\nDeus merece o louvor"
+        },
+        {
+          "content": "Vós somente sois o Santo\nO Altíssimo, o Senhor\nCom o espírito divino\nDe Deus Pai no esplendor"
+        },
+        {
+          "content": "Glória, glória, anjos do céu\nCantam todos Seu amor\nE na terra, homens de paz\nDeus merece o louvor"
+        }
+      ]
+    },
+    {
+      "id": "senhor-que-viste-salvar-padre-zeca",
+      "name": "Senhor Que Viste Salvar",
+      "artist": "Padre Zeca",
+      "slides":[
+        {
+          "content": "Senhor que viestes salvar\nOs corações arrependidos\nPiedade, piedade\nPiedade de nós\nPiedade, piedade\nPiedade de nós"
+        },
+        {
+          "content": "Ó, Cristo que viestes chamar\nOs pecadores humilhados, piedade\nPiedade, piedade\nPiedade de nós\nPiedade, piedade\nPiedade de nós"
+        },
+        {
+          "content": "Senhor que intercedeis por nós\nJunto a Deus Pai que nos perdoa, piedade\nPiedade, piedade\nPiedade de nós\nPiedade, piedade\nPiedade de nós"
+        }
+      ]
+    },
+    {
+      "id": "es-agua-viva-padre-zezinho",
+      "name": "És Água Viva",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Eu te peço desta água que tu tens/nÉ água viva meu senhor/nTenho sede, tenho fome de amor/nE acredito nesta fonte de onde vens"
+        },
+        {
+          "content": "Vens de Deus, estás em Deus, também és Deus\nE Deus contigo faz um só\nEu, porém, que vim da terra e volto ao pó\nQuero viver eternamente ao lado teu"
+        },
+        {
+          "content": "És água viva\nÉs vida nova\nE todo dia me batizas outras vez\nMe fazes renascer\nMe fazes reviver\nE eu quero água desta fonte de onde vens"
+        }
+      ]
+    },
+    {
+      "id": "banhados-em-cristo",
+      "name": "Banhados em Cristo",
+      "artist": "Grupo Palestrina de Curitiba",
+      "slides":[
+        {
+          "content": "Banhados em Cristo,\nsomos uma nova criatura.\nAs coisas antigas já se passaram,\nsomos nascidos de novo.\nAleluia, aleluia, aleluia! (bis)"
+        }
+      ]
+    },
+    {
+      "id": "eis-me-aqui-senhor-catolicas",
+      "name": "Eis-me Aqui, Senhor",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Eis-me aqui, Senhor! Eis-me aqui, Senhor!\nPra fazer Tua Vontade, pra viver do Teu Amor\nPra fazer Tua Vontade, pra viver do Teu Amor\nEis-me aqui, Senhor!"
+        },
+        {
+          "content": "O Senhor é o Pastor que me conduz\nPor caminhos nunca vistos me enviou\nSou chamado a ser fermento, sal e luz\nE por isso respondi: aqui estou!"
+        },
+        {
+          "content": "Eis-me aqui, Senhor! Eis-me aqui, Senhor!\nPra fazer Tua Vontade, pra viver do Teu Amor\nPra fazer Tua Vontade, pra viver do Teu Amor\nEis-me aqui, Senhor!"
+        },
+        {
+          "content": "Ele pôs em minha boca uma canção\nMe ungiu como profeta e trovador\nDa história e da vida do meu povo\nE por isso respondi: aqui estou!"
+        },
+        {
+          "content": "Eis-me aqui, Senhor! Eis-me aqui, Senhor!\nPra fazer Tua Vontade, pra viver do Teu Amor\nPra fazer Tua Vontade, pra viver do Teu Amor\nEis-me aqui, Senhor!"
+        },
+        {
+          "content": "Ponho a minha confiança no Senhor\nDa esperança sou chamado a ser sinal\nSeu ouvido se inclinou ao meu clamor\nE por isso respondi: aqui estou!"
+        },
+        {
+          "content": "Eis-me aqui, Senhor! Eis-me aqui, Senhor!\nPra fazer Tua Vontade, pra viver do Teu Amor\nPra fazer Tua Vontade, pra viver do Teu Amor\nEis-me aqui, Senhor!"
+        }
+      ]
+    },
+    {
+      "id": "te-amarei-senhor-pe-zezinho",
+      "name": "Te Amarei, Senhor",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Me chamaste para caminhar na vida contigo\nDecidi para sempre seguir-Te, não voltar atrás\nMe puseste uma brasa no peito e uma flecha na alma\nÉ difícil, agora, viver sem lembrar-me de Ti"
+        },
+        {
+          "content": "Te amarei, Senhor, Te amarei, Senhor\nEu só encontro a paz e a alegria\nBem perto de Ti"
+        },
+        {
+          "content": "Eu pensei muitas vezes calar e não dar nem resposta\nEu pensei na fuga esconder-me, ir longe de Ti\nMas tua força venceu e ao final eu fiquei seduzida\nÉ difícil agora viver sem saudade de Ti"
+        },
+        {
+          "content": "Te amarei, Senhor, Te amarei, Senhor\nEu só encontro a paz e a alegria\nBem perto de Ti"
+        },
+        {
+          "content": "Oh, Jesus, não me deixes jamais caminhar solitário\nPois conheces a minha fraqueza e o meu coração\nVem, ensina-me a viver a vida na Tua presença\nNo amor dos irmãos, na alegria, na paz, na união"
+        },
+        {
+          "content": "Te amarei, Senhor, Te amarei, Senhor\nEu só encontro a paz e a alegria\nBem perto de Ti"
+        }
+      ]
+    },
+    {
+      "id": "aleluia-gabriela-rocha",
+      "name": "Aleluia",
+      "artist": "Gabriela Rocha",
+      "slides":[
+        {
+          "content": "Pai, eu quero te amar\nTocar o teu coração\nE me derramar aos teus pés"
+        },
+        {
+          "content": "Mais perto quero estar, Senhor\nE te adorar com tudo o que eu sou\nE te render glória e aleluia"
+        },
+        {
+          "content": "Aleluia, aleluia\nAleluia, aleluia"
+        },
+        {
+          "content": "Quando lutas vierem me derrubar\nFirmado em ti eu estarei\nPois tu és o meu refúgio, ó Deus"
+        },
+        {
+          "content": "E não importa onde estiver\nNo vale ou no monte, adorarei\nA ti eu canto glória e aleluia"
+        },
+        {
+          "content": "Aleluia, aleluia\nAleluia, aleluia"
+        },
+        {
+          "content": "Senhor, preciso do teu olhar\nOuvir as batidas do teu coração\nMe esconder nos teus braços, ó pai"
+        },
+        {
+          "content": "Toda minh'alma deseja a ti\nJunto com os anjos cantarei\nTu és santo, exaltado, aleluia!"
+        },
+        {
+          "content": "Aleluia, aleluia\nAleluia, aleluia"
+        }
+      ]
+    },
+    {
+      "id": "tu-es-o-centro-frei-gilson",
+      "name": "Tu És o Centro",
+      "artist": "Frei Gilson",
+      "slides": [
+        {
+          "content": "Quero te louvar, Te engrandecer\nE proclamar Tua vitória em mim"
+        },
+        {
+          "content": "Ser todo Teu é o meu prazer\nTe seguirei aonde fores, Senhor"
+        },
+        {
+          "content": "Tu és o centro da minha vida\nÉs a razão da minha alegria"
+        },
+        {
+          "content": "Não quero tirar os meus olhos de Ti\nQuero que sejas o centro, Senhor"
+        },
+        {
+          "content": "Tu és o centro da minha vida\nÉs a razão da minha alegria"
+        },
+        {
+          "content": "Não quero tirar os meus olhos de Ti\nQuero que sejas o centro, Senhor\n Da minha vida"
+        },
+        {
+          "content": "Não vou mais tirar, os meus olhos de Ti\nVou me apaixonar, outra vez"
+        },
+        {
+          "content": "Que meu viver Senhor, seja para te agradar\nNada mais vai ocupar meu coração"
+        },
+        {
+          "content": "Tu és o centro da minha vida\nÉs a razão da minha alegria"
+        },
+        {
+          "content": "Não quero tirar os meus olhos de Ti\nQuero que sejas o centro, Senhor"
+        },
+        {
+          "content": "Tu és o centro da minha vida\nÉs a razão da minha alegria"
+        },
+        {
+          "content": "Não quero tirar os meus olhos de Ti\nQuero que sejas o centro, Senhor\n Da minha vida"
+        }
+      ]
+    },
+    {
+      "id": "oracao-sao-francisco",
+      "name": "Oração São Francisco",
+      "artist": "Fagner",
+      "slides":[
+        {
+          "content": "Senhor, fazei-me instrumento de vossa paz\nOnde houver ódio, que eu leve o amor\nOnde houver ofensa, que eu leve o perdão\nOnde houver discórdia, que eu leve união\nOnde houver dúvida, que eu leve a fé"
+        },
+
+        {
+          "content": "Onde houver erro, que eu leve a verdade\nOnde houver desespero, que eu leve a esperança\nOnde houver tristeza, que eu leve alegria\nOnde houver trevas, que eu leve a luz"
+        },
+        {
+          "content": "Ó mestre, fazei que eu procure mais consolar que ser consolado\nCompreender que ser compreendido\nAmar que ser amado\nPois é dando que se recebe\nÉ perdoando que se é perdoado\nE é morrendo que se vive\nPara a vida eterna"
+        }
+      ]
+    },
+    {
+      "id": "perdoa-me-shalom",
+      "name": "Perdoa-me",
+      "artist": "Comunidade Católica Shalom",
+      "slides":[
+        {
+          "content": "Senhor, que Te deixaste ferir\nDo Teu sangue vem a paz\nAqui estou, perdoa-me"
+        },
+        {
+          "content": "Kyrie eleison, kyrie eleison\nKyrie eleison"
+        },
+        {
+          "content": "Oh Cristo, elevado na cruz\nÉs amigo do pecador\nAqui estou, perdoa-me"
+        },
+        {
+          "content": "Christe eleison, Christe eleison\nChriste eleison"
+        },
+        {
+          "content": "Senhor, da morte, vencedor\nVerdadeiro filho de Deus\nAqui estou, perdoa-me"
+        },
+        {
+          "content": "Kyrie eleison, kyrie eleison\nKyrie eleison"
+        }
+      ]
+    },
+    {
+      "id": "oh-oh-gloria-a-deus-pai",
+      "name": "Oh, Oh Glória a Deus Pai",
+      "artist": "Glória de Cristo Salvador",
+      "slides":[
+        {
+          "content": "Ô, ô glória, ô glória\nA Deus Pai, a Jesus Cristo e ao Espírito de amor"
+        },
+        {
+          "content": "Deus e pai\nNós louvamos, adoramos, bendizemos\nDamos glória ao Vosso nome, Vossos dons agradecemos"
+        },
+        {
+          "content": "Senhor nosso, Jesus Cristo, unigênito do Pai\nVós de Deus, Cordeiro Santo, nossas culpas perdoai"
+        },
+        {
+          "content": "Ô, ô glória, ô glória\nA Deus Pai, a Jesus Cristo e ao Espírito de amor"
+        },
+        {
+          "content": "Vós que estais junto do Pai, como nosso intercessor\nAcolhei nossos pedidos, atendei nosso clamor"
+        },
+        {
+          "content": "Vós somente sois o Santo, o Altíssimo, o Senhor\nCom o Espírito Divino, de Deus Pai no esplendor"
+        },
+        {
+          "content": "Ô, ô glória, ô glória\nA Deus Pai, a Jesus Cristo e ao Espírito de amor"
+        }
+      ]
+    },
+    {
+      "id": "fala-senhor-marcio-todeschini",
+      "name": "Fala Senhor",
+      "artist": "Márcio Todeschini",
+      "slides":[
+        {
+          "content": "Deus quer falar comigo\nEm coisas tão pequenas\nNas coisas simples"
+        },
+        {
+          "content": "Eu quero ouvir sua voz\nPreciso estar atento\nA todo movimento do céu\nEm direção a mim"
+        },
+        {
+          "content": "Fala senhor\nPreciso ouvir tua voz\nEis aqui o teu servo"
+        },
+        {
+          "content": "Fala no irmão\nNa palavra, Senhor\nE no meu coração"
+        }
+      ]
+    },
+    {
+      "id": "fiel-a-mim-eyshila",
+      "name": "Fiel a mim",
+      "artist": "Eyshila",
+      "slides":[
+        {
+          "content": "Sei que estás aqui, Senhor\nPodes perceber quem sou\nPodes ver se há em mim\nUm verdadeiro adorador"
+        },
+        {
+          "content": "A minha oferta eu ofereço a Ti, Deus meu\nPra reconhecer que nada tenho, tudo é Teu"
+        },
+        {
+          "content": "Quero Te adorar, ainda que a figueira não floresça\nQuero te alegrar, mesmo se o dinheiro me faltar\nA vitória vem, mesmo que pareça que é o fim\nPois tu és fiel, Senhor, fiel a mim"
+        },
+        {
+          "content": "Tu és fiel, Senhor\nEu sei que tu és fiel\nTu és fiel, Senhor\nEu sei que Tu és fiel\nE ainda que eu não mereça\nPermaneces assim\nFiel, Senhor, meu Deus\nFiel a mim"
+        }
+      ]
+    },
+    {
+      "id": "santo-pe-ney",
+      "name": "Santo, santo, santo é o Senhor",
+      "artist": "Pe. Ney Brasil",
+      "slides":[
+        {
+          "content": "Santo, santo,\nsanto é o Senhor\nSanto, santo,\nsanto é o Senhor\nnosso Deus"
+        },
+        {
+          "content": "Senhor Deus do Universo,\no céu e a terra\nproclamam vossa glória,\nhosana nas alturas"
+        },
+        {
+          "content": "Bendito é o que vem,\nem nome do Senhor,\nhosana nas alturas,\nhosana nas alturas"
+        },
+        {
+          "content": "Santo, santo,\nsanto é o Senhor\nSanto, santo,\nsanto é o Senhor\nnosso Deus"
+        }
+      ]
+    },
+    {
+      "id": "amar-como-jesus-amou-pe-zezinho",
+      "name": "Amar Como Jesus Amou",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Um dia uma criança me parou\nOlhou-me nos meus olhos a sorrir\nCaneta e papel na sua mão\nTarefa escolar para cumprir\nE perguntou no meio de um sorriso\nO que é preciso para ser feliz?"
+        },
+        {
+          "content": "Amar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        },
+        {
+          "content": "Ouvindo o que eu falei ela me olhou\nE disse que era lindo o que eu falei\nPediu que eu repetisse, por favor\nMas não dissesse tudo de uma vez\nE perguntou de novo num sorriso\nO que é preciso para ser feliz?"
+        },
+        {
+          "content": "Amar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        },
+        {
+          "content": "Depois que eu terminei de repetir\nSeus olhos não saíram do papel\nToquei no seu rostinho e a sorrir\nPedi que ao transmitir fosse fiel\nE ela deu-me um beijo demorado\nE ao meu lado foi dizendo assim"
+        },
+        {
+          "content": "Amar como Jesus amou\nSonhar como Jesus sonhou\nPensar como Jesus pensou\nViver como Jesus viveu"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        },
+        {
+          "content": "Sentir o que Jesus sentia\nSorrir como Jesus sorria\nE ao chegar ao fim do dia\nEu sei que eu dormiria muito mais feliz"
+        }
+      ]
+    },
+    {
+      "id": "oracao-pela-paz-pe-zezinho",
+      "name": "Oração Pela Paz",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Cristo, quero ser instrumento de Tua\nPaz e do Teu infinito amor\nOnde houver ódio e rancor, que eu\nLeve a concórdia, que eu leve o amor"
+        },
+        {
+          "content": "Onde há ofensa que dói\nQue eu leve o perdão\nOnde houver a discórdia,\nQue eu leve a união e Tua paz"
+        },
+        {
+          "content": "Onde encontrar um irmão\nA chorar de Tristeza\nSem ter voz e nem vez\nQuero bem no seu coração\nSemear alegria\nPra florir gratidão"
+        },
+        {
+          "content": "Mestre, que eu saiba amar\nCompreender, consolar\nE dar sem receber\nQuero sempre mais perdoar\nTrabalhar na conquista\nE vitória da paz"
+        }
+      ]
+    },
+    {
+      "id": "a-bencao",
+      "name": "A Benção",
+      "artist": "Gabriel Guedes",
+      "slides":[
+        {
+          "content": "Deus te abençoe, te guarde\nFaça resplandecer seu rosto sobre ti\nTe mostre sua graça\nE te dê paz"
+        },
+        {
+          "content": "Amém!"
+        }
+      ]
+    }
+  ]
+}
