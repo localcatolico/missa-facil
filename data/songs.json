@@ -11,6 +11,151 @@
       ]
     },
     {
+      "id": "padre-meu-amigo-e-companheiro",
+      "name": "Padre meu Amigo e Companheiro",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Padre meu amigo e companheiro\nQue me ensinou a caminhar\nQue em meio ardente nevoeiro\nVeio a minha vida iluminar"
+        },
+        {
+          "content": "Seu olhar naquela noite escura\nTinha um doce brilho de luar\nEm sua voz palavras de ternura\nComo a de um canto de ninar"
+        },
+        {
+          "content": "Você me guiou neste caminho\nE o mundo inteiro me mostrou\nPadre, meu amigo, obrigado!\nNosso Deus já te abençoou!"
+        }
+      ]
+    },
+    {
+      "id": "tua-voz-me-fez-refletir",
+      "name": "Tua Voz me Fez Refletir",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Quando chamaste os doze primeiros pra te seguir\nsei que chamavas todos os que haviam de vir"
+        },
+        {
+          "content": "Tua voz me fez refletir, deixei tudo pra Te seguir\nNos Teus mares eu quero navegar"
+        },
+        {
+          "content": "Quando pediste aos doze primeiros: Ide e ensinai\nSei que pedias a todos nós: Evangelizai"
+        },
+        {
+          "content": "Tua voz me fez refletir, deixei tudo pra Te seguir\nNos Teus mares eu quero navegar"
+        },
+        {
+          "content": "Quando enviaste os doze primeiros de dois em dois\nsei que enviavas todos os que viessem depois"
+        },
+        {
+          "content": "Tua voz me fez refletir, deixei tudo pra Te seguir\nNos Teus mares eu quero navegar"
+        }
+      ]
+    },
+    {
+      "id": "nossa-missao-adriana-arydes",
+      "name": "Nossa Missão",
+      "artist": "Adriana Arydes",
+      "slides":[
+        {
+          "content": "Desde o ventre da minha mãe\nJá me conhecia\nAntes que eu nascesse\nJesus me escolheu"
+        },
+        {
+          "content": "Hoje a minha vida\nÉ para o seu louvor\nSigo anunciando o seu eterno amor"
+        },
+        {
+          "content": "Aonde mandar eu irei\nSeu amor eu não posso ocultar\nQuero anunciar, para o mundo ouvir\nQue Jesus é o nosso salvador..."
+        },
+        {
+          "content": "Grato eu estou Senhor\nPorque me confiaste\nA missão de proclamar o seu eterno amor\nMesmo sendo tão pequeno\nMe deste autoridade\nDe em seu nome anunciar\nA paz e a liberdade"
+        },
+        {
+          "content": "Aonde mandar eu irei\nSeu amor eu não posso ocultar\nQuero anunciar, para o mundo ouvir\nQue Jesus é o nosso salvador..."
+        }
+      ]
+    },
+    {
+      "id": "minha-essencia-thiago-brado",
+      "name": "Minha Essência",
+      "artist": "Thiago Brado",
+      "slides":[
+        {
+          "content": "Vim até aqui\nDerramar o meu passado em Ti\nVim banhar os pés que andaram por aí\nSem carinho receber"
+        },
+        {
+          "content": "Hoje estou aqui\nNão porque mereço, eu sei\nPois Tu sabes por onde eu andei\nConheces bem o meu perfume"
+        },
+        {
+          "content": "Mas Tu sabes também\nQue o meu choro é sincero, porém\nNão tenho nada a oferecer, meu Senhor\nMas te dou a minha vida"
+        },
+        {
+          "content": "É tudo que tenho\nRecebe o meu nada\nRefaz a morada\nHabita em mim"
+        },
+        {
+          "content": "Me pega em Teu colo\nMe acalma em Teu peito\nSou Teu, sou eleito\nE a minha essência é exalar Teu cheiro"
+        }
+      ]
+    },
+    {
+      "id": "como-sao-belos-padre-zezinho",
+      "name": "Como São Belos",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "Como são belos os pés do mensageiro\nQue anuncia a paz\nComo são belos os pés do mensageiro\nQue anuncia o Senhor"
+        },
+        {
+          "content": "Ele vive, ele reina\nEle é Deus e Senhor (2x)"
+        },
+        {
+          "content": "O meu senhor chegou com toda a glória\nVivo, eu sei, ele está, bem junto a nós\nSeu corpo santo a nos tocar, e vivo eu sei\nEle está"
+        },
+        {
+          "content": "Ele vive, ele reina\nEle é Deus e Senhor (2x)"
+        }
+      ]
+    },
+    {
+      "id": "ele-e-o-rei-amados-do-eterno",
+      "name": "Ele É o Rei",
+      "artist": "Amados do Eterno",
+      "slides":[
+        {
+          "content": "Eu olho pra ti Jesus\nE ergo as minhas mãos\nElevo a minha voz\nCanto o meu louvor"
+        },
+        {
+          "content": "Diante do rei eu me encontro agora\nVejo sua majestade, sua glória\nA sua misericórdia não tem fim\nO senhor esta aqui"
+        },
+        {
+          "content": "Ele é o rei, ele é o Senhor\nA ele a glória, glória, glória, glória (2x)"
+        }
+      ]
+    },
+    {
+      "id": "tu-es-a-razao-da-jornada",
+      "name": "Tu És a Razão da Jornada",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Um dia escutei teu chamado\nDivino recado batendo no coração\nDeixei deste mundo as promessas\nE fui bem depressa no rumo da tua mão"
+        },
+        {
+          "content": "Tu és a razão da jornada\nTu és minha estrada, meu guia, meu fim\nNo grito que vem do teu povo\nTe escuto de novo, chamando por mim"
+        },
+        {
+          "content": "Os anos passaram ligeiro\nMe fiz um obreiro do reino de paz e amor\nNos mares do mundo navego\nE às redes me entrego\nTornei-me teu pescador"
+        },
+        {
+          "content": "Tu és a razão da jornada\nTu és minha estrada, meu guia, meu fim\nNo grito que vem do teu povo\nTe escuto de novo, chamando por mim"
+        },
+        {
+          "content": "Embora tão fraco e pequeno\nCaminho sereno com a força que vem de ti\nA cada momento que passa\nRevivo esta graça\nDe ser teu sinal aqui"
+        },
+        {
+          "content": "Tu és a razão da jornada\nTu és minha estrada, meu guia, meu fim\nNo grito que vem do teu povo\nTe escuto de novo, chamando por mim"
+        }
+      ]
+    },
+    {
       "id": "cantai-ao-senhor-francisco-clara",
       "name": "Cantai ao Senhor",
       "artist": "Francisco e Clara",
