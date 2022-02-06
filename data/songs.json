@@ -11,6 +11,134 @@
       ]
     },
     {
+      "id": "meu-pai-shalom",
+      "name": "Meu Pai",
+      "artist": "Shalom",
+      "slides":[
+        {
+          "content": "Meu pai abraça-me bem forte\nE me prende bem junto a ti\nNão me deixes ir para longe de ti\nPois não sei viver sem o teu amor (2x)"
+        },
+        {
+          "content": "Meu pai, meu pai, meu papai\nJá não sei viver sem ti\nMeu pai, meu pai, meu papai\nJá não sei viver sem o teu amor"
+        }
+      ]
+    },
+    {
+      "id": "nao-pare-midian-lima",
+      "name": "Não Pare",
+      "artist": "Midian Lima",
+      "slides":[
+        {
+          "content": "Amanheceu\nNada pesquei\nParecia ser apenas mais um dia\nComo qualquer outro"
+        },
+        {
+          "content": "Estava cansado\nSem forças, desanimado\nDecidida a largar tudo e parar"
+        },
+        {
+          "content": "Deus conhece tua estrutura\nSabe o que está fazendo\nMesmo que seja difícil\nNão pares, Ele está vendo"
+        },
+        {
+          "content": "Colheu todas tuas lágrimas\nE mandou a ti falar\nPegue o que Ele te entregou\nE volte para o mar que é o teu lugar"
+        },
+        {
+          "content": "Quem mandou largar a rede?\nQuem mandou você parar?\nVolte para o mar alto\nNo lugar da tua vergonha, eu vou te honrar"
+        },
+        {
+          "content": "Deus conhece tua estrutura\nSabe o que está fazendo\nMesmo que seja difícil\nNão pares, Ele está vendo"
+        },
+        {
+          "content": "Colheu todas tuas lágrimas\nE mandou a ti falar\nPegue o que Ele te entregou\nE volte para o mar que é o teu lugar"
+        },
+        {
+          "content": "Quem mandou largar a rede?\nQuem mandou você parar?\nVolte para o mar alto\nNo lugar da tua vergonha, eu vou te honrar"
+        }
+      ]
+    },
+    {
+      "id": "a-barca",
+      "name": "A Barca",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Tu te abeiraste na praia\nNão buscaste nem sábios, nem ricos\nSomente queres que eu te siga"
+        },
+        {
+          "content": "Senhor, tu me olhaste nos olhos\nA sorrir pronunciaste meu nome\nLá na praia eu larguei o meu barco\nJunto a ti buscarei outro mar"
+        },
+        {
+          "content": "Tu sabes bem que em meu barco\nEu não tenho nem ouro nem espadas\nSomente redes e o meu trabalho"
+        },
+        {
+          "content": "Senhor, tu me olhaste nos olhos\nA sorrir pronunciaste meu nome\nLá na praia eu larguei o meu barco\nJunto a ti buscarei outro mar"
+        },
+        {
+          "content": "Tu minhas mãos solicitas\nMeu cansaço, que a outros descanse\nAmor que almeja seguir amando"
+        },
+        {
+          "content": "Senhor, tu me olhaste nos olhos\nA sorrir pronunciaste meu nome\nLá na praia eu larguei o meu barco\nJunto a ti buscarei outro mar"
+        },
+        {
+          "content": "Tu, pescador de outros lagos\nÂnsia eterna de almas que esperam\nBondoso amigo, que assim me chamas"
+        },
+        {
+          "content": "Senhor, tu me olhaste nos olhos\nA sorrir pronunciaste meu nome\nLá na praia eu larguei o meu barco\nJunto a ti buscarei outro mar"
+        }
+      ]
+    },
+    {
+      "id": "cordeiro-jardel",
+      "name": "Cordeiro",
+      "artist": "Jardel",
+      "slides":[
+        {
+          "content": "Cordeiro de Deus, que tirais o pecado do mundo\nTende piedade\nPiedade de nós (2x)"
+        },
+        {
+          "content": "Cordeiro de Deus, que tirais o pecado do mundo\nDai-nos a paz\nA Vossa pas"
+        }
+      ]
+    },
+    {
+      "id": "nada-nos-separara-davidson-silva",
+      "name": "Nada nos separará",
+      "artist": "Davidson Silva",
+      "slides":[
+        {
+          "content": "Meu coração é teu senhor\nNada nos superará\nMeu coração é teu senhor\nNada nos separará"
+        },
+        {
+          "content": "Nem mesmo as quedas\nMinha lentidão, podem nos separar\nSou todo teu, amado meu\nQuem ousará em nos separar"
+        },
+        {
+          "content": "Nem a morte, a perseguição\nA angústia, a desolação, vão nos separar\nPois sou todo teu"
+        },
+        {
+          "content": "Meu coração é teu senhor\nNada nos superará\nMeu coração é teu senhor\nNada nos separará"
+        },
+        {
+          "content": "Nem mesmo as quedas\nMinha lentidão, podem nos separar\nSou todo teu, amado meu\nQuem ousará em nos separar"
+        },
+        {
+          "content": "Nem a morte, a perseguição\nA angústia, a desolação, vão nos separar\nPois sou todo teu"
+        },
+        {
+          "content": "Sou todo teu, amado meu\nQuem ousará em nos separar"
+        },
+        {
+          "content": "Nem a morte, a perseguição\nA angústia, a desolação vão nos separar\nPois sou todo teu"
+        },
+        {
+          "content": "Sou todo teu amado meu\nQuem ousará em nos separar"
+        },
+        {
+          "content": "Nem a morte, a perseguição\nA angústia, a desolação, vão nos separar\nPois sou todo teu"
+        },
+        {
+          "content": "Sou todo teu, amado meu\nQuem ousará em nos separar\nNada nos separará!"
+        }
+      ]
+    },
+    {
       "id": "padre-meu-amigo-e-companheiro",
       "name": "Padre meu Amigo e Companheiro",
       "artist": "Músicas Católicas",
