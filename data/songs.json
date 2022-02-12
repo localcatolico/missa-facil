@@ -11,6 +11,37 @@
       ]
     },
     {
+      "id": "gloria-banda-capella",
+      "name": "Glória",
+      "artist": "Banda Capella",
+      "slides":[
+        {
+          "content": "Glória, glória, glória, glória!"
+        },
+        {
+          "content": "Glória a Deus lá nas alturas\nPaz na terra aos seus amados\nA vos louvam rei celeste\nOs que foram libertados"
+        },
+        {
+          "content": "Deus e pai nós vos louvamos\nAdoramos, bendizemos\nDamos glória ao vosso nome\nVossos dons agradecemos"
+        },
+        {
+          "content": "Glória, glória, glória, glória!"
+        },
+        {
+          "content": "Senhor nosso Jesus Cristo, unigênito do pai\nVós de Deus cordeiro santo, nossas culpas perdoai"
+        },
+        {
+          "content": "Vós que estais junto do pai\nComo nosso intercessor\nAcolhei nossos pedidos\nAtendei nosso clamor"
+        },
+        {
+          "content": "Vós somente sois o santo, o altíssimo Senhor\nCom o espírito divino de Deus pai no esplendor"
+        },
+        {
+          "content": "Glória, glória, glória, glória!"
+        }
+      ]
+    },
+    {
       "id": "meu-pai-shalom",
       "name": "Meu Pai",
       "artist": "Shalom",
