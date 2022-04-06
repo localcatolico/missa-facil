@@ -24,3 +24,13 @@ O deploy está sendo feito no Heroku, execute:
 ```bash
 make deploy
 ```
+
+## 📫 Contribuindo
+
+Para contribuir com o projeto, siga as etapas:
+
+1. Clonar o repositório: `git clone git@github.com:rafaelbmateus/missa-facil.git`
+2. Criar um branch: `git checkout -b feature-a`.
+3. Fazer as alterações e confirmar: `git commit -m 'feat: endpoint to add new songs'`
+4. Enviar o branch: `git push origin feature-a`
+5. Crair um a solicitação de [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
