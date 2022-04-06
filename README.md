@@ -33,4 +33,4 @@ Para contribuir com o projeto, siga as etapas:
 2. Criar um branch: `git checkout -b feature-a`.
 3. Fazer as alterações e confirmar: `git commit -m 'feat: endpoint to add new songs'`
 4. Enviar o branch: `git push origin feature-a`
-5. Crair um a solicitação de [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
+5. Criar uma solicitação de [pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/creating-a-pull-request).
