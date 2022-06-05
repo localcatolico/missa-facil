@@ -14,6 +14,168 @@
       ]
     },
     {
+      "id": "algo-novo-kemuel",
+      "name": "Algo Novo",
+      "artist": "Kemuel",
+      "slides":[
+        {
+          "content": "Vem me visitar hoje aqui\nQuero conhecer mais de Ti\nEspírito, vem, Espírito, vem\nEspírito Santo\nEspírito, vem, Espírito, vem\nEspírito Santo"
+        },
+        {
+          "content": "Eu quero viver algo novo\nFaz meu coração arder de novo\nFazendo todo medo desaparecer\nTrazendo sobre mim um novo amanhecer\nEu quero viver algo novo"
+        }
+      ]
+    },
+    {
+      "id": "conheco-um-coracao-marcelo-rossi",
+      "name": "Conheço um Coração",
+      "artist": "Padre Marcelo Rossi",
+      "slides":[
+        {
+          "content": "Conheço um coração tão manso, humilde e sereno\nQue louva ao Pai por revelar seu nome aos pequenos\nQue tem o dom de amar, que sabe perdoar\nE deu a vida para nos salvar!"
+        },
+        {
+          "content": "Jesus, manda Teu Espírito\nPara transformar meu coração\nJesus, manda Teu Espírito\nPara transformar meu coração"
+        },
+        {
+          "content": "Ás vezes no meu peito bate um coração de pedra\nMagoado, frio, sem vida, aqui dentro ele me aperta\nNão quer saber de amar, nem sabe perdoar\nQuer tudo e não sabe partilhar"
+        },
+        {
+          "content": "Jesus, manda Teu Espírito\nPara transformar meu coração\nJesus, manda Teu Espírito\nPara transformar meu coração"
+        },
+        {
+          "content": "Lava, purifica e restaura-me de novo\nSerás o nosso Deus e nós seremos o Seu povo\nDerrama sobre nós, a água do amor\nO Espírito de Deus, nosso Senhor!"
+        },
+        {
+          "content": "Jesus, manda Teu Espírito\nPara transformar meu coração\nJesus, manda Teu Espírito\nPara transformar meu coração"
+        }
+      ]
+    },
+    {
+      "id": "divino-hospede",
+      "name": "Divino Hóspede",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "Bem vindo, Tu que trazes a Boa Nova\nBem vindo, Tu que trazes o Reino dos Céus"
+        },
+        {
+          "content": "És Vida! És Esperança! Tua presença é presença de Deus\nBem-vindo, Tu que trazes a Boa Nova!"
+        },
+        {
+          "content": "Podes entrar, Divino Hóspede, podes entrar em meu\nCoração. Essa é a casa que preparei pra te acolher (2x)"
+        },
+        {
+          "content": "Bem vindo, Tu que falas de amor e perdão\nBem Vindo, Tu que falas de um mundo novo"
+        },
+        {
+          "content": "És Luz! És Porta! Como discípulo eu quero te acolher\nBem Vindo, Tu que falas de amor e perdão"
+        },
+        {
+          "content": "Podes entrar, Divino Hóspede, podes entrar em meu\nCoração. Essa é a casa que preparei pra te acolher (2x)"
+        },
+        {
+          "content": "Bem vindo tu que mostras a fortaleza\nBem vindo tu que mostras coragem e fé"
+        },
+        {
+          "content": "És força, perseverança o teu exemplo é exemplo de amor\nBem vindo tu que mostras a fortaleza"
+        },
+        {
+          "content": "Podes entrar, Divino Hóspede, podes entrar em meu\nCoração. Essa é a casa que preparei pra te acolher (2x)"
+        },
+        {
+          "content": "Bem vindo tu que levas sabedoria\nBem vindo tu que levas o entendimento\nÉs sopro és claridade, o Teu conselho nos quer ensinar\nBem vindo tu que levas sabedoria"
+        },
+        {
+          "content": "Podes entrar, Divino Hóspede, podes entrar em meu\nCoração. Essa é a casa que preparei pra te acolher (2x)"
+        },
+        {
+          "content": "Bem vindo tu que tocas com piedade\nBem vindo tu que tocas o coração"
+        },
+        {
+          "content": "És pão, és vinho\nÉs alimento que traz salvação\nBem vindo tu que tocas com piedade."
+        },
+        {
+          "content": "Podes entrar, Divino Hóspede, podes entrar em meu\nCoração. Essa é a casa que preparei pra te acolher (2x)"
+        }
+      ]
+    },
+    {
+      "id": "_blank",
+      "name": "",
+      "artist": "",
+      "slides":[
+        {
+          "content": "Te dou meu coração,\nE tudo que há em mim.\nEntrego meu viver\nPor amor a Ti, meu Rei!"
+        },
+        {
+          "content": "Meus sonhos rendo a Ti\nE meus direitos dou.\nO orgulho vou trocar\nPela vida do Senhor."
+        },
+        {
+          "content": "E eu entrego tudo a Ti,\nTudo a Ti."
+        },
+        {
+          "content": "Eu canto esta canção\nDe entrega a Ti, Jesus,\nE o que o mundo dá\nEu deixo aos pés da cruz."
+        },
+        {
+          "content": "Por conhecer a Ti,\nTeu nome dar louvor,\nSentir Tua alegria,\nPartilhando Tua dor."
+        },
+        {
+          "content": "E eu entrego tudo a Ti,\nTudo a Ti."
+        }
+      ]
+    },
+    {
+      "id": "a-nos-descei-divina-luz",
+      "name": "A Nós Descei, Divina Luz",
+      "artist": "Músicas Católicas",
+      "slides":[
+        {
+          "content": "A nós descei, Divina Luz\nA nós descei, Divina Luz\nEm nossas almas acendei\nO amor, o amor de Jesus\nEm nossas almas acendei\nO amor, o amor de Jesus"
+        },
+        {
+          "content": "Vinde, Santo Espírito, e do Céu mandai\nDe tua luz um raio, de tua luz um"
+        },
+        {
+          "content": "Vinde, Pai dos pobres, doador dos dons\nLuz dos corações, luz dos corações"
+        },
+        {
+          "content": "Grão consolador, nossa alma habitei\nE nos confortai, e nos confortai"
+        },
+        {
+          "content": "Aleluia, Aleluia, Aleluia, Aleluia"
+        },
+        {
+          "content": "A nós descei, Divina Luz\nA nós descei, Divina Luz\nEm nossas almas acendei\nO amor, o amor de Jesus\nEm nossas almas acendei\nO amor, o amor de Jesus"
+        }
+      ]
+    },
+    {
+      "id": "eu-navegarei",
+      "name": "Eu Navegarei",
+      "artist": "Música Católicas",
+      "slides":[
+        {
+          "content": "Eu navegarei\nNo oceano do Espírito\nE ali adorarei\nAo Deus do meu amor"
+        },
+        {
+          "content": "Espírito, Espírito\nQue desce como fogo\nVem como em pentecostes\nE enche-me de novo"
+        },
+        {
+          "content": "Eu adorarei\nAo Deus da minha vida\nQue me compreendeu\nSem nenhuma explicação"
+        },
+        {
+          "content": "Espírito, Espírito\nQue desce como fogo\nVem como em pentecostes\nE enche-me de novo"
+        },
+        {
+          "content": "Eu Servirei/nAo meu Deus fiel/nAo meu libertador/nAquele que venceu"
+        },
+        {
+          "content": "Espírito, Espírito\nQue desce como fogo\nVem como em pentecostes\nE enche-me de novo"
+        }
+      ]
+    },
+    {
       "id": "restauracao-dunga",
       "name": "Restauração",
       "artist": "Dunga",
