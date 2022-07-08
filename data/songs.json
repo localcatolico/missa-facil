@@ -14,6 +14,47 @@
       ]
     },
     {
+      "id": "hino-de-santa-isabel",
+      "name": "",
+      "artist": "",
+      "slides":[
+        {
+          "content": "Salve Santa Isabel tão querida\nServidora de Cristo Senhor\nNas virtudes que ornaram tua vida\nFoste exemplo de paz e de amor"
+        },
+        {
+          "content": "Padroeira Fiel desse povo\nQue por ti leva a Deus seu louvor\nNós pedimos que venhas de novo\nRevelar seu exemplo de paz de amor"
+        },
+        {
+          "content": "Promovendo a união das pessoas\nTu provastes que o amor é capaz\nDe trocar nesse mundo as coroas\nPela causa de Deus e da paz"
+        },
+        {
+          "content": "Padroeira Fiel desse povo\nQue por ti leva a Deus seu louvor\nNós pedimos que venhas de novo\nRevelar seu exemplo de paz de amor"
+        },
+        {
+          "content": "Padroeira e tão santa rainha\nNós queremos aqui suplicar\nAbençoa quem luta e caminha\nE mais perto de Deus quer estar"
+        },
+        {
+          "content": "Padroeira Fiel desse povo\nQue por ti leva a Deus seu louvor\nNós pedimos que venhas de novo\nRevelar seu exemplo de paz de amor"
+        }
+      ]
+    },
+    {
+      "id": "terra-seca-fraternidade-sao-joao-paulo-ii",
+      "name": "Terra Seca",
+      "artist": "Fraternidade São João Paulo II",
+      "slides":[
+        {
+          "content": "Somente em Ti construirei a minha casa\nSomente em Ti colocarei minha esperança (2x)"
+        },
+        {
+          "content": "Pois só em Ti minh’alma achou descanso\nPois só em Ti eu pude respirar (2x)"
+        },
+        {
+          "content": "E o meu coração deseja Te encontrar\nComo a terra seca anseia pela chuva\nVem me saciar\nPois eu descobri\nQue aqui é o meu lugar (2x)"
+        }
+      ]
+    },
+    {
       "id": "estas-entre-nos",
       "name": "Estás entre nós",
       "artist": "Eliana Ribeiro",
