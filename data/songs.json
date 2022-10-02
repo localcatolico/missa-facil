@@ -14,6 +14,109 @@
       ]
     },
     {
+      "id": "_blank",
+      "name": "",
+      "artist": "",
+      "slides":[
+        {
+          "content": "Santa Mãe Maria, nessa travessia\nCubra-nos Teu manto cor de anil\nGuarda nossa vida, Mãe Aparecida\nSanta padroeira do Brasil"
+        },
+        {
+          "content": "Ave, Maria! Ave, Maria!\nAve, Maria! Ave, Maria!"
+        },
+        {
+          "content": "Mulher peregrina, força feminina\nA mais importante que existiu\nCom justiça queres que nossas mulheres\nSejam construtoras do Brasil"
+        },
+        {
+          "content": "Ave, Maria! Ave, Maria!\nAve, Maria! Ave, Maria!"
+        },
+        {
+          "content": "Com amor divino guarda os peregrinos\nNesta caminhada para o além\nDá-lhes companhia, pois também um dia\nFoste peregrina em Belém"
+        },
+        {
+          "content": "Ave, Maria! Ave, Maria!\nAve, Maria! Ave, Maria!"
+        },
+        {
+          "content": "Com Seus passos lentos enfrentando os ventos\nQuando sopram noutra direção\nToda a mãe Igreja pede que Tu sejas\nCompanheira de libertação"
+        },
+        {
+          "content": "Ave, Maria! Ave, Maria!\nAve, Maria! Ave, Maria!"
+        }
+      ]
+    },
+    {
+      "id": "presenca-linda-netinho",
+      "name": "",
+      "artist": "",
+      "slides":[
+        {
+          "content": "É tão bom receber o Teu corpo\nE sentir Tua presença em minh'alma\nTodo amor começado no altar\nEm minha vida ele continuará"
+        },
+        {
+          "content": "Presença tão linda e serena\nMinhas mãos até podem tocar\nÉs o Deus verdadeiro entre nós\nQue por amor se deixa alcançar"
+        },
+        {
+          "content": "Te adoro, Te louvo, porque sei que em mim Tu estás!\nMe amas, Te amo, oh! amado, vem comigo ficar"
+        }
+      ]
+    },
+    {
+      "id": "perdao-senhor-catolicas",
+      "name": "Perdão Senhor",
+      "artist": "Catolicas",
+      "slides":[
+        {
+          "content": "Perdão, Senhor, tantos erros cometi\nPerdão, Senhor, tantas vezes me omiti\nPerdão, Senhor pelos males que causei\nPelas coisas que falei, pelo irmão que eu julguei\nPerdão, Senhor, pelos males que causei\nPelas coisas que falei, pelo irmão que eu julguei"
+        },
+        {
+          "content": "Piedade, Senhor, tem piedade, senhor\nMeu pecado vem lavar com seu amor\nPiedade, Senhor, tem piedade, senhor\nE liberta minha alma para o amor"
+        },
+        {
+          "content": "Perdão, Senhor porque sou tão pecador\nPerdão, Senhor, sou pequeno e sem valor\nMas mesmo assim tu me amas\nQuero então te entregar meu coração\nSuplicar o teu perdão\nMas mesmo assim tu me amas\nQuero então te entregar meu coração\nSuplicar o teu perdão"
+        },
+        {
+          "content": "Piedade, Senhor, tem piedade, senhor\nMeu pecado vem lavar com seu amor\nPiedade, Senhor, tem piedade, senhor\nE liberta minha alma para o amor"
+        },
+        {
+          "content": "Perdão, Senhor, tantos erros cometi\nPerdão, Senhor, tantas vezes me omiti\nPerdão, Senhor pelos males que causei\nPelas coisas que falei, pelo irmão que eu julguei\nPerdão, Senhor, pelos males que causei\nPelas coisas que falei, pelo irmão que eu julguei"
+        },
+        {
+          "content": "Piedade, Senhor, tem piedade, senhor\nMeu pecado vem lavar com seu amor\nPiedade, Senhor, tem piedade, senhor\nE liberta minha alma para o amor"
+        },
+        {
+          "content": "Perdão, Senhor porque sou tão pecador\nPerdão, Senhor, sou pequeno e sem valor\nMas mesmo assim tu me amas\nQuero então te entregar meu coração\nSuplicar o teu perdão\nMas mesmo assim tu me amas\nQuero então te entregar meu coração\nSuplicar o teu perdão"
+        },
+        {
+          "content": "Piedade, Senhor, tem piedade, senhor\nMeu pecado vem lavar com seu amor\nPiedade, Senhor, tem piedade, senhor\nE liberta minha alma para o amor"
+        }
+      ]
+    },
+    {
+      "id": "que-santidade-de-vida",
+      "name": "Que Santidade de Vida",
+      "artist": "Jonas Abib",
+      "slides":[
+        {
+          "content": "Que santidade de vida\nQue homens devemos ser\nPois se tudo no céu e na terra\nO Senhor chamará"
+        },
+        {
+          "content": "Que respeito para com Deus\nQue lutas devemos travar?\nNo novo céu e na nova terra\nIremos morar"
+        },
+        {
+          "content": "Somos Senhor tua Igreja\nQue aguarda e apressa\nTua vinda gloriosa\nQue o Senhor nos encontre em paz\nPuros e santos"
+        },
+        {
+          "content": "Que é feito da sua promessa?\nPerguntam e zombam de Deus"
+        },
+        {
+          "content": "Mas o Senhor virá\nE Ele não tardará\nQue eu seja santo, santo, santo\nPois Deus é Santo, Santo, Santo\nQue a santidade da minha vida apresse o Senhor\nE Ele logo virá (2x)"
+        },
+        {
+          "content": "Somos Senhor tua Igreja\nQue aguarda e apressa\nTua vinda gloriosa\nQue o Senhor nos encontre em paz\nPuros e santos"
+        }
+      ]
+    },
+    {
       "id": "hino-de-santa-isabel",
       "name": "Hino de Santa Isabel",
       "artist": "Católicas",
@@ -47,7 +150,7 @@
           "content": "Somente em Ti construirei a minha casa\nSomente em Ti colocarei minha esperança (2x)"
         },
         {
-          "content": "Pois só em Ti minh’alma achou descanso\nPois só em Ti eu pude respirar (2x)"
+          "content": "Pois só em Ti minh'alma achou descanso\nPois só em Ti eu pude respirar (2x)"
         },
         {
           "content": "E o meu coração deseja Te encontrar\nComo a terra seca anseia pela chuva\nVem me saciar\nPois eu descobri\nQue aqui é o meu lugar (2x)"
@@ -1295,7 +1398,7 @@
     },
     {
       "id": "aleluia-gabriela-rocha",
-      "name": "Aleluia",
+      "name": "Aleluia (Hallelujah)",
       "artist": "Gabriela Rocha",
       "slides":[
         {
