@@ -14,6 +14,31 @@
       ]
     },
     {
+      "id": "vou-cantar-teu-amor",
+      "name": "Vou Cantar Teu Amor",
+      "artist": "Católicas",
+      "slides":[
+        {
+          "content": "Vou cantar Teu amor, ser no mundo um farol. Eis-me aqui\nSenhor, vem abrir as janelas do meu coração\nE então, falarei imitando tua voz\nCreio em Ti, Senhor, nas pegadas deixadas por Ti vou andar"
+        },
+        {
+          "content": "Vou falar do Teu coração, com ternura nas mãos e na voz\nProclamar que a vida é bem mais\nDo que aquilo que o mundo ensina e cantar"
+        },
+        {
+          "content": "Cantar o canto ensinado por Deus com poesia ensinar nossa fé\nPlantar o chão, cultivar o amor, como poetas que querem sonhar\nPra realizar o que o mestre ensinou viemos cear, restaurar o coração\nFonte de vida no altar a brotar, a nos alimentar"
+        },
+        {
+          "content": "Celebrar meu viver pra no mundo ser mais. Faz de mim, Senhor\nAprendiz da verdade, justiça e da paz\nComungar Teu viver neste vinho, neste pão\nQuero ser Senhor, novo homem nascido do teu coração"
+        },
+        {
+          "content": "Vou falar do Teu coração, com ternura nas mãos e na voz\nProclamar que a vida\nÉ bem mais do que aquilo que o mundo ensina e cantar"
+        },
+        {
+          "content": "Cantar o canto ensinado por Deus com poesia ensinar nossa fé\nPlantar o chão, cultivar o amor, como poetas que querem sonhar\nPra realizar o que o mestre ensinou viemos cear, restaurar o coração\nFonte de vida no altar a brotar, a nos alimentar"
+        }
+      ]
+    },
+    {
       "id": "ofereco-minha-vida",
       "name": "Ofereço Minha Vida",
       "artist": "Igreja Bíblica da Paz",
