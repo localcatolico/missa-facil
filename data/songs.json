@@ -14,6 +14,50 @@
       ]
     },
     {
+      "id": "ofereco-minha-vida",
+      "name": "Ofereço Minha Vida",
+      "artist": "Igreja Bíblica da Paz",
+      "slides":[
+        {
+          "content": "Tudo o que sou\ntudo o que tenho\nestão diante de Ti, Senhor\nminhas tristezas e alegrias\na Ti entrego agora, Senhor"
+        },
+        {
+          "content": "Ofereço minha vida a Ti\nUsa o meu viver\nPara Tua glória\nOs meus dias são Teus Senhor\nQue seja o meu louvor\nSacrifício agradável\nMinha vida eu te dou"
+        },
+        {
+          "content": "O meu passado\nO meu futuro\nSonhos que um dia se realizarão\nMinha esperança e os meus planos\nTodo o meu ser\nPertence ao Senhor"
+        },
+        {
+          "content": "Ofereço minha vida a Ti\nUsa o meu viver\nPara Tua glória\nOs meus dias são Teus Senhor\nQue seja o meu louvor\nSacrifício agradável\nMinha vida eu te dou"
+        }
+      ]
+    },
+    {
+      "id": "deixa-a-luz-do-ceu-entrar",
+      "name": "Deixa a luz do céu entrar",
+      "artist": "Católicas",
+      "slides":[
+        {
+          "content": "Tu anseias, eu bem sei, por salvação\nTens desejo de banir a escuridão\nAbre, pois, de par em par, teu coração\nE deixa a luz do céu entrar"
+        },
+        {
+          "content": "Deixa a luz do céu entrar\nDeixa a luz do céu entrar\nAbre bem as portas do teu coração\nE deixa a luz do céu entrar"
+        },
+        {
+          "content": "Cristo, a luz do céu, em ti quer habitar\nPara as trevas do pecado dissipar\nTeu caminho e coração iluminar\nE deixa a luz do céu entrar"
+        },
+        {
+          "content": "Deixa a luz do céu entrar\nDeixa a luz do céu entrar\nAbre bem as portas do teu coração\nE deixa a luz do céu entrar"
+        },
+        {
+          "content": "Que alegria andar ao brilho dessa luz\nVida eterna e paz no coração produz\nÓ, aceita agora o Salvador Jesus\nE deixa a luz do céu entrar"
+        },
+        {
+          "content": "Deixa a luz do céu entrar\nDeixa a luz do céu entrar\nAbre bem as portas do teu coração\nE deixa a luz do céu entrar"
+        }
+      ]
+    },
+    {
       "id": "vem-que-esta-chegando-o-natal",
       "name": "Vem Que Está Chegando o Natal",
       "artist": "",
