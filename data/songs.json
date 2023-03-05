@@ -14,6 +14,79 @@
       ]
     },
     {
+      "id": "tomai-e-come",
+      "name": "Tomai e Come",
+      "artist": "",
+      "slides":[
+        {
+          "content": "Comam do Pão, bebam do Cálice\nQuem de Mim vem não terá fome"
+        },
+        {
+          "content": "Comam do Pão, bebam do Cálic/e\nQuem de Mim crêr não terá sede"
+        }
+      ]
+    },
+    {
+      "id": "a-ti-meu-deus",
+      "name": "A Ti, Meu Deus",
+      "artist": "",
+      "slides":[
+        {
+          "content": "A Ti, meu Deus\nElevo meu coração\nElevo as minhas mãos\nMeu olhar, minha voz"
+        },
+        {
+          "content": "A Ti, meu Deus\nEu quero oferecer\nMeus passos e meu viver\nMeus caminhos, meu sofrer"
+        },
+        {
+          "content": "A Tua ternura, Senhor, vem me abraçar\nE a Tua bondade infinita me perdoar\nVou ser o Teu seguidor e Te dar o meu coração\nEu quero sentir o calor de Tuas mãos"
+        },
+        {
+          "content": "A Ti, meu Deus\nQue és bom e que tens amor\nAo pobre, ao sofredor\nVou servir, esperar"
+        },
+        {
+          "content": "Em Ti, meu Deus\nHumildes se alegrarão\nCantando a nova canção\nDe esperança e de paz"
+        },
+        {
+          "content": "A Tua ternura, Senhor, vem me abraçar\nE a Tua bondade infinita me perdoar\nVou ser o Teu seguidor e Te dar o meu coração\nEu quero sentir o calor de Tuas mãos"
+        }
+      ]
+    },
+    {
+      "id": "perdoai-me-shalom",
+      "name": "Perdoai-me",
+      "artist": "Shalom",
+      "slides":[
+        {
+          "content": "Senhor, eu pequei\nPratiquei o que é mau\nTem piedade perdoai-me\nPor misericórdia"
+        },
+        {
+          "content": "Cristo, eu pequei\nPratiquei o que é mau\nTem piedade perdoai-me\nPor misericórdia"
+        },
+        {
+          "content": "Senhor, eu pequei\nPratiquei o que é mau\nTem piedade perdoai-me\nPor misericórdia"
+        }
+      ]
+    },
+    {
+      "id": "rei-do-universo-quinta-gospel",
+      "name": "Rei do Universo",
+      "artist": "Quinta Gospel",
+      "slides":[
+        {
+          "content": "Quão Formoso És, Rei do universo\nTua Glória enche a terra e os céus"
+        },
+        {
+          "content": "Tua Glória enche a terra\nTua glória enche os céus\nTua glória enche minha vida Senhor"
+        },
+        {
+          "content": "Maravilhoso é estar em Tua presença\nMaravilhoso é poder Te adorar"
+        },
+        {
+          "content": "Maravilhoso é tocar nas Tuas vestes\nMaravilhoso é Te contemplar Senhor"
+        }
+      ]
+    },
+    {
       "id": "vou-cantar-teu-amor",
       "name": "Vou Cantar Teu Amor",
       "artist": "Católicas",
