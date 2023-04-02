@@ -14,6 +14,87 @@
       ]
     },
     {
+      "id": "o-povo-de-deus-pe-zezinho",
+      "name": "O Povo de Deus",
+      "artist": "Padre Zezinho",
+      "slides":[
+        {
+          "content": "O povo de Deus no deserto andava\nMas à sua frente Alguém caminhava\nO povo de Deus era rico de nada\nSó tinha a esperança e o pó da estrada"
+        },
+        {
+          "content": "Também sou Teu povo, Senhor\nE estou nessa estrada\nSomente a Tua graça me basta e mais nada!"
+        },
+        {
+          "content": "O povo de Deus também vacilava\nÀs vezes custava a crer no amor\nO povo de Deus, chorando, rezava\nPedia perdão e recomeçava"
+        },
+        {
+          "content": "Também sou Teu povo, Senhor\nE estou nessa estrada\nSomente a Tua graça me basta e mais nada!"
+        },
+        {
+          "content": "O povo de Deus também teve fome\nE Tu lhe mandaste o pão lá do céu\nO povo de Deus, cantando, deu graças\nProvou Teu amor, Teu amor que não passa"
+        },
+        {
+          "content": "Também sou Teu povo, Senhor\nE estou nessa estrada\nSomente a Tua graça me basta e mais nada!"
+        },
+        {
+          "content": "O povo de Deus ao longe avistou\nA terra querida que o amor preparou\nO povo de Deus corria e cantava\nE nos seus louvores, Teu poder proclamava"
+        },
+        {
+          "content": "Também sou Teu povo, Senhor\nE estou nessa estrada\nSomente a Tua graça me basta e mais nada!"
+        }
+      ]
+    },
+    {
+      "id": "hosana-hey",
+      "name": "Hosana Hey",
+      "artist": "Roberto Malvezzi",
+      "slides":[
+        {
+          "content": "Hosana, hey! Hosana, ha!\nHosana, hey! Hosana, hey! Hosana, ha!"
+        },
+        {
+          "content": "Ele é o Santo, é o filho de Maria\nÉ o Deus de Israel\nÉ o filho de Davi"
+        },
+        {
+          "content": "Hosana, hey! Hosana, ha!\nHosana, hey! Hosana, hey! Hosana, ha!"
+        },
+        {
+          "content": "Vamos a Ele com as flores dos trigais\nCom os ramos de oliveiras\nCom alegria e muita paz"
+        },
+        {
+          "content": "Hosana, hey! Hosana, ha!\nHosana, hey! Hosana, hey! Hosana, ha!"
+        },
+        {
+          "content": "Ele é o Cristo, é o unificador\nÉ Hosana nas alturas\nÉ Hosana no amor"
+        },
+        {
+          "content": "Hosana, hey! Hosana, ha!\nHosana, hey! Hosana, hey! Hosana, ha!"
+        },
+        {
+          "content": "Ele é a alegria, é a razão de meu viver\nÉ a vida de meus dias\nÉ amparo no sofrer"
+        },
+        {
+          "content": "Hosana, hey! Hosana, ha!\nHosana, hey! Hosana, hey! Hosana, ha!"
+        }
+      ]
+    },
+    {
+      "id": "louvemos-ao-senhor",
+      "name": "Louvemos Ao Senhor",
+      "artist": "Comunidade da Graça",
+      "slides":[
+        {
+          "content": "Louvemos ao Senhor, louvemos ao Senhor\nAdoremos nos seu santo monte\nNosso amado Pai, seu nome é santo\nLouvamos ao Senhor\nPois seu nome é santo"
+        },
+        {
+          "content": "Magnifiquemos ao Senhor\nAo Rei que é digno de louvor\nExcelso, supremo e mui digno de louvor"
+        },
+        {
+          "content": "Hosana, hosana, hosana ao nosso Rei\nCristo é a nossa vida, o motivo de louvor\nEm nosso novo coração\nPois morreu a nossa morte, pra vivermos sua vida\nNos trouxe grande salvação"
+        }
+      ]
+    },
+    {
       "id": "tomai-e-come",
       "name": "Tomai e Come",
       "artist": "",
