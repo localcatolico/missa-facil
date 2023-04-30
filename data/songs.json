@@ -14,6 +14,94 @@
       ]
     },
     {
+      "id": "porque-ele-vive",
+      "name": "Porque Ele Vive",
+      "artist": "",
+      "slides":[
+        {
+          "content": "Deus enviou seu filho amado\nPara morrer em meu lugar\nNa cruz pagou por meus pecados\nMas o sepulcro vazio está porque ele vive"
+        },
+        {
+          "content": "Porque ele vive, eu posso crer no amanhã\nPorque ele vive, temor não há\nMas eu bem sei que o meu futuro\nEstá nas mãos do meu Jesus que vivo está"
+        },
+        {
+          "content": "Um dia eu vou cruzar os rios\nE verei então, um céu de luz\nE verei que lá, em plena glória\nVitorioso, vive e reina o meu Jesus"
+        },
+        {
+          "content": "Porque ele vive, eu posso crer no amanhã\nPorque ele vive, temor não há\nMas eu bem sei que o meu futuro\nEstá nas mãos do meu Jesus que vivo está"
+        }
+      ]
+    },
+    {
+      "id": "oh-quao-lindo-esse-nome-e",
+      "name": "Oh Quão Lindo Esse Nome É",
+      "artist": "",
+      "slides":[
+        {
+          "content": "No início eras a palavra\nUm com Deus, o Altíssimo\nO mistério de Tua glória\nCristo, em Ti se revelou"
+        },
+        {
+          "content": "Quão lindo esse nome é\nQuão lindo esse nome é\nO nome de Jesus, meu Rei"
+        },
+        {
+          "content": "Quão lindo esse nome é\nQuão lindo esse nome é\nO nome de Jesus"
+        },
+        {
+          "content": "Deixou o céu para buscar-nos\nVeio pra nos resgatar\nAmor maior que o meu pecado\nNada vai nos separar"
+        },
+        {
+          "content": "Quão lindo esse nome é\nQuão lindo esse nome é\nO nome de Jesus, meu Rei"
+        },
+        {
+          "content": "Quão lindo esse nome é\nQuão lindo esse nome é\nO nome de Jesus"
+        },
+        {
+          "content": "A morte venceste\nO véu Tu rompeste\nA tumba vazia agora está\nO céu Te adora\nProclama Tua glória\nPois ressuscitaste e vivo estás"
+        },
+        {
+          "content": "És invencível\nInigualável\nHoje e pra sempre reinarás\nTeu é o reino\nTua é a glória\nAcima de todo nome estás"
+        },
+        {
+          "content": "Poderoso esse nome é\nPoderoso esse nome é\nO nome de Jesus, meu Rei"
+        },
+        {
+          "content": "Poderoso esse nome é\nMais forte que tudo é\nPoderoso esse nome é\nO nome de Jesus"
+        }
+      ]
+    },
+    {
+      "id": "ao-ouvir-tua-voz-shalom",
+      "name": "Ao Ouvir Tua Voz",
+      "artist": "Shalom",
+      "slides":[
+        {
+          "content": "Aleluia! Aleluia!\nAleluia! Aleluia!"
+        },
+        {
+          "content": "Ao ouvir tua voz\nNosso coração se encheu de alegria\nE com júbilo sem fim nós cantaremos\nA tua paz!"
+        },
+        {
+          "content": "Aleluia! Aleluia!\nAleluia! Aleluia!"
+        }
+      ]
+    },
+    {
+      "id": "tu-me-guias-dany-grace",
+      "name": "Tu me guis",
+      "artist": "Dany Grace",
+      "slides":[
+        {
+          "content": "Tu me guias, mansamente\nCom tua vara e teu cajado\nPor montanhas e por vales\nGuardarás em paz minh'alma"
+        },
+        {
+          "content": "Descansarei\nA sombra de tuas asas\nMinh'alma tem sede de ti"
+        },
+        {
+          "content": "Oh meu deus\nDo mal me guardas\nTu és tudo para mim\nPastor da minha vida\nMinh'alma tem sede de ti"
+        }
+      ]
+    },
+    {
       "id": "ser-conhecido-de-deus",
       "name": "Ser Conhecido de Deus",
       "artist": "Renascer Praise",
