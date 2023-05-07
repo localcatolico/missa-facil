@@ -14,6 +14,63 @@
       ]
     },
     {
+      "id": "perfeito-e-quem-te-criou",
+      "name": "Perfeito é Quem te Criou",
+      "artist": "Vida Reluz",
+      "slides":[
+        {
+          "content": "Se um dia um anjo declarou\nQue tu eras cheia de Deus\nAgora penso: Quem sou eu\nPara não te dizer também"
+        },
+        {
+          "content": "Cheia de graça, ó Mãe\nCheia de graça, ó Mãe\nAgraciada"
+        },
+        {
+          "content": "Se a palavra ensinou\nQue todos hão de concordar\nE as gerações te proclamar\nAgora eu também direi"
+        },
+        {
+          "content": "Tu és bendita, ó Mãe\nTu és bendita, ó Mãe\nBem-aventurada"
+        },
+        {
+          "content": "Surgiu um grande sinal no céu\nUma mulher revestida de sol\nA lua debaixo de seus pés\nE na cabeça uma coroa"
+        },
+        {
+          "content": "Não há com que se comparar\nPerfeito é quem te criou\nSe o Criador te coroou"
+        },
+        {
+          "content": "Te coroamos, ó Mãe\nTe coroamos, ó Mãe\nTe coroamos, ó Mãe\nNossa Rainha"
+        }
+      ]
+    },
+    {
+      "id": "santo-anjo",
+      "name": "Santo Anjo",
+      "artist": "Oração Cantada",
+      "slides":[
+        {
+          "content": "Santo anjo do Senhor\nMeu zeloso guardador\nSe a ti me confiou\nA piedade divina"
+        },
+        {
+          "content": "Sempre rege\nSempre me guarda\nSempre me governa\nMe ilumina sempre\nAmém!..."
+        }
+      ]
+    },
+    {
+      "id": "o-pao-da-vida-pe-zeca",
+      "name": "O Pão da Vida",
+      "artist": "Padre Zeca",
+      "slides":[
+        {
+          "content": "Na comunhão, Jesus Se dá no pão\nO Cordeiro imolado é refeição\nNosso alimento de amor e salvação\nEm torno deste altar somos irmãos"
+        },
+        {
+          "content": "O pão da vida és Tu, Jesus, o pão do céu\nO caminho, a verdade, via de amor\nDom de Deus, nosso Redentor"
+        },
+        {
+          "content": "Toma e come\nIsto e o meu corpo\nQue do trigo se faz pao, e refeicao\nNa Eucaristia\nO Vinho de torna Sangue\nVerdadeira bebida, nossa alegria"
+        }
+      ]
+    },
+    {
       "id": "porque-ele-vive",
       "name": "Porque Ele Vive",
       "artist": "",
