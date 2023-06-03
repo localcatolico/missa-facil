@@ -14,6 +14,19 @@
       ]
     },
     {
+      "id": "eu-sou-maravilha",
+      "name": "Eu Sou Maravilha",
+      "artist": "Banda Bom Pastor",
+      "slides":[
+        {
+          "content": "O Pai é o que ama\nO Filho é o amado\nE o Espírito Santo é o amor"
+        },
+        {
+          "content": "Eu sou maravilha aos olhos do Pai\nCriatura vinda da mente perfeita de Deus"
+        }
+      ]
+    },
+    {
       "id": "perfeito-e-quem-te-criou",
       "name": "Perfeito é Quem te Criou",
       "artist": "Vida Reluz",
