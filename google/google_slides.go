@@ -3,6 +3,7 @@ package google
 import (
 	"context"
 	"net/http"
+	"strings"
 
 	"github.com/google/uuid"
 	"github.com/rafaelbmateus/slides-gospel/entity"
@@ -27,14 +28,16 @@ func CreatePresentation(apresentation *entity.Presentation, oauth2 *oauth2.Confi
 	var requests []*slides.Request
 	for _, song := range apresentation.Songs {
 		requests = append(requests, slideRequest("MAIN_POINT", song.Name)...)
-		for _, slide := range song.Slides {
-			requests = append(requests, slideRequest("SECTION_HEADER", slide.Content)...)
+		for _, slide := range song.Content {
+			content := strings.Replace(slide, "<br>", "\n", -1)
+			requests = append(requests, slideRequest("SECTION_HEADER", content)...)
 		}
 		requests = append(requests, slideRequest("SECTION_HEADER", "")...)
 	}
 
-	for _, slide := range apresentation.Prayer.Slides {
-		requests = append(requests, slideRequest("SECTION_HEADER", slide.Content)...)
+	for _, slide := range apresentation.Prayer.Content {
+		content := strings.Replace(slide, "<br>", "\n", -1)
+		requests = append(requests, slideRequest("SECTION_HEADER", content)...)
 		requests = append(requests, slideRequest("SECTION_HEADER", "")...)
 	}
 

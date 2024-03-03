@@ -24,13 +24,13 @@ func Seed() *memory.Memory {
 		Prayers: entity.Prayers{
 			[]entity.Prayer{
 				{
-					ID: "1", Prayer: "prayer one", Slides: []entity.Slide{{Content: "hello"}},
+					ID: "1", Prayer: "prayer one", Content: []string{"hello"},
 				},
 				{
-					ID: "2", Prayer: "prayer two", Slides: []entity.Slide{{Content: "world"}},
+					ID: "2", Prayer: "prayer two", Content: []string{"world"},
 				},
 				{
-					ID: "3", Prayer: "prayer three", Slides: []entity.Slide{{Content: "content"}},
+					ID: "3", Prayer: "prayer three", Content: []string{"content"},
 				},
 			},
 		},

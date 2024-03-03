@@ -2,7 +2,8 @@ package memory
 
 import (
 	"encoding/json"
-	"io/ioutil"
+	"log"
+	"net/http"
 
 	"github.com/rafaelbmateus/slides-gospel/entity"
 )
@@ -58,40 +59,41 @@ func (me *Memory) GetSong(id string) (entity.Song, error) {
 }
 
 func loadPrayers(path string) (entity.Prayers, error) {
-	prayers := entity.Prayers{}
-
-	file, err := readFile(path)
+	res, err := http.Get(path)
 	if err != nil {
-		return prayers, err
+		log.Fatal("Erro ao fazer a solicitação HTTP:", err)
+
+		return entity.Prayers{}, err
 	}
 
-	err = json.Unmarshal([]byte(file), &prayers)
-	if err != nil {
-		return prayers, err
+	defer res.Body.Close()
+
+	var prayers entity.Prayers
+	if err := json.NewDecoder(res.Body).Decode(&prayers); err != nil {
+		log.Fatal("Erro ao decodificar a resposta JSON:", err)
+
+		return entity.Prayers{}, err
 	}
+
 	return prayers, nil
 }
 
 func loadSongs(path string) (entity.Songs, error) {
-	songs := entity.Songs{}
-
-	file, err := readFile(path)
+	res, err := http.Get(path)
 	if err != nil {
-		return songs, err
+		log.Fatal("Erro ao fazer a solicitação HTTP:", err)
+
+		return entity.Songs{}, err
 	}
 
-	err = json.Unmarshal([]byte(file), &songs)
-	if err != nil {
-		return songs, err
+	defer res.Body.Close()
+
+	var songs entity.Songs
+	if err := json.NewDecoder(res.Body).Decode(&songs); err != nil {
+		log.Fatal("Erro ao decodificar a resposta JSON:", err)
+
+		return entity.Songs{}, err
 	}
 
 	return songs, nil
-}
-
-func readFile(path string) ([]byte, error) {
-	file, err := ioutil.ReadFile(path)
-	if err != nil {
-		return nil, err
-	}
-	return file, nil
 }

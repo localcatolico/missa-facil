@@ -1,35 +1,21 @@
 package entity
 
 type Songs struct {
-	Songs []Song `json:"songs"`
+	Songs []Song `json:"musics"`
 }
 
 type Song struct {
-	ID     string  `json:"id"`
-	Name   string  `json:"name"`
-	Artist string  `json:"artist"`
-	Slides []Slide `json:"slides,omitempty"`
+	ID      string   `json:"id"`
+	Name    string   `json:"name"`
+	Artist  string   `json:"artist"`
+	Content []string `json:"content"`
 }
 
-func NewSong(id, name, artist string, slides []Slide) (*Song, error) {
-	s := &Song{
-		ID:     id,
-		Name:   name,
-		Artist: artist,
-		Slides: slides,
+func NewSong(id, name, artist string, content []string) *Song {
+	return &Song{
+		ID:      id,
+		Name:    name,
+		Artist:  artist,
+		Content: content,
 	}
-
-	if err := s.Validade(); err != nil {
-		return s, err
-	}
-
-	return s, nil
-}
-
-func (s *Song) Validade() error {
-	if s.ID == "" || s.Name == "" || s.Artist == "" {
-		return ErrInvalidEntity
-	}
-
-	return nil
 }

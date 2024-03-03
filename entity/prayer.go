@@ -5,29 +5,15 @@ type Prayers struct {
 }
 
 type Prayer struct {
-	ID     string  `json:"id"`
-	Prayer string  `json:"name"`
-	Slides []Slide `json:"slides"`
+	ID      string   `json:"id"`
+	Prayer  string   `json:"name"`
+	Content []string `json:"content"`
 }
 
-func NewPrayer(id string, prayer string, slides []Slide) (*Prayer, error) {
-	p := &Prayer{
-		ID:     id,
-		Prayer: prayer,
-		Slides: slides,
+func NewPrayer(id string, prayer string, content []string) *Prayer {
+	return &Prayer{
+		ID:      id,
+		Prayer:  prayer,
+		Content: content,
 	}
-
-	if err := p.Validade(); err != nil {
-		return p, err
-	}
-
-	return p, nil
-}
-
-func (p *Prayer) Validade() error {
-	if p.ID == "" || p.Prayer == "" {
-		return ErrInvalidEntity
-	}
-
-	return nil
 }

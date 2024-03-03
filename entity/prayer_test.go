@@ -9,49 +9,48 @@ import (
 
 func TestPrayer(t *testing.T) {
 	tests := []struct {
-		name   string
-		id     string
-		prayer string
-		slides []entity.Slide
-		err    error
+		name    string
+		id      string
+		prayer  string
+		content []string
+		err     error
 	}{
 		{
-			name:   "prayer with success",
-			id:     "123",
-			prayer: "prayer name",
-			slides: []entity.Slide{{Content: "hello"}},
-			err:    nil,
+			name:    "prayer with success",
+			id:      "123",
+			prayer:  "prayer name",
+			content: []string{"hello"},
+			err:     nil,
 		},
 		{
-			name:   "id is required",
-			id:     "",
-			prayer: "prayer name",
-			slides: []entity.Slide{{Content: "hello"}},
-			err:    entity.ErrInvalidEntity,
+			name:    "id is required",
+			id:      "",
+			prayer:  "prayer name",
+			content: []string{"hello"},
+			err:     entity.ErrInvalidEntity,
 		},
 		{
-			name:   "prayer name is required",
-			id:     "123",
-			prayer: "",
-			slides: []entity.Slide{{Content: "hello"}},
-			err:    entity.ErrInvalidEntity,
+			name:    "prayer name is required",
+			id:      "123",
+			prayer:  "",
+			content: []string{"hello"},
+			err:     entity.ErrInvalidEntity,
 		},
 		{
-			name:   "with slides empty",
-			id:     "123",
-			prayer: "prayer name",
-			slides: []entity.Slide{},
-			err:    nil,
+			name:    "with slides empty",
+			id:      "123",
+			prayer:  "prayer name",
+			content: []string{"hello"},
+			err:     nil,
 		},
 	}
 
 	for _, tt := range tests {
 		t.Run(tt.name, func(t *testing.T) {
-			p, err := entity.NewPrayer(tt.id, tt.prayer, tt.slides)
+			p := entity.NewPrayer(tt.id, tt.prayer, tt.content)
 			assert.Equal(t, tt.id, p.ID)
 			assert.Equal(t, tt.prayer, p.Prayer)
-			assert.Equal(t, tt.slides, p.Slides)
-			assert.Equal(t, tt.err, err)
+			assert.Equal(t, tt.content, p.Content)
 		})
 	}
 }

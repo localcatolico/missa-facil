@@ -14,6 +14,14 @@ var (
 
 func main() {
 	log.Info().Msgf("starting using version %s and commit %s", Version, Commit)
-	memory, _ := memory.NewMemory("data/prayers.json", "data/songs.json")
+	prayersURL := "https://raw.githubusercontent.com/localcatolico/localcatolico-oracoes/main/prayers.json"
+	musicsURL := "https://raw.githubusercontent.com/localcatolico/localcatolico-musicas/main/data/musics.json"
+	memory, err := memory.NewMemory(prayersURL, musicsURL)
+	if err != nil {
+		log.Error().Msgf("error on create memory %q", err)
+
+		return
+	}
+
 	handler.NewHandler(usecase.NewUsecase(memory)).Server()
 }
